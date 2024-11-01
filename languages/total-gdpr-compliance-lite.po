@@ -1,0 +1,2658 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-26 11:57+0545\n"
+"PO-Revision-Date: 2018-11-26 11:58+0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: total-gdpr-compliance-lite.php:207
+msgid "Necessary"
+msgstr ""
+
+#: total-gdpr-compliance-lite.php:208
+msgid "Analytics & Marketing"
+msgstr ""
+
+#: total-gdpr-compliance-lite.php:209
+msgid "Advertisement"
+msgstr ""
+
+#: total-gdpr-compliance-lite.php:229
+msgid "TGDPRC Shorcode Inserter"
+msgstr ""
+
+#: total-gdpr-compliance-lite.php:229
+msgid "TGDPRC Shortcode"
+msgstr ""
+
+#: total-gdpr-compliance-lite.php:290
+msgid "id"
+msgstr ""
+
+#: total-gdpr-compliance-lite.php:291
+#: inc/backend/advanced-cookie/tgdprc-view-consent-log.php:24
+#: inc/backend/advanced-cookie/tgdprc-view-consent-log.php:73
+msgid "Browser IP"
+msgstr ""
+
+#: total-gdpr-compliance-lite.php:292
+msgid "User Agent"
+msgstr ""
+
+#: total-gdpr-compliance-lite.php:293
+msgid "Browser Header"
+msgstr ""
+
+#: total-gdpr-compliance-lite.php:294
+#: inc/backend/advanced-cookie/tgdprc-view-consent-log.php:26
+#: inc/backend/advanced-cookie/tgdprc-view-consent-log.php:75
+msgid "Consent Values"
+msgstr ""
+
+#: total-gdpr-compliance-lite.php:295
+#: inc/backend/advanced-cookie/tgdprc-view-consent-log.php:27
+#: inc/backend/advanced-cookie/tgdprc-view-consent-log.php:76
+msgid "Consent Date"
+msgstr ""
+
+#: total-gdpr-compliance-lite.php:296
+msgid "Consent last Edited Date"
+msgstr ""
+
+#: total-gdpr-compliance-lite.php:380
+msgid "I accept storing of my basic data and Privacy Policy"
+msgstr ""
+
+#: total-gdpr-compliance-lite.php:398
+msgid "Please accept our consent checkbox to continue."
+msgstr ""
+
+#: total-gdpr-compliance-lite.php:417 total-gdpr-compliance-lite.php:464
+msgid "I accept storing of my basic data."
+msgstr ""
+
+#: total-gdpr-compliance-lite.php:440 total-gdpr-compliance-lite.php:475
+msgid "Please accept our consent checkbox to continue"
+msgstr ""
+
+#: total-gdpr-compliance-lite.php:443
+msgid "ERROR"
+msgstr ""
+
+#: total-gdpr-compliance-lite.php:508
+msgid "I consent to storing of my name, email and other details"
+msgstr ""
+
+#: total-gdpr-compliance-lite.php:525
+msgid "I am okay with storage of my data and accept Privacy Policy"
+msgstr ""
+
+#: total-gdpr-compliance-lite.php:543
+msgid "please accept our consent checkbox to continue"
+msgstr ""
+
+#: total-gdpr-compliance-lite.php:545
+msgid "ERROR: "
+msgstr ""
+
+#: total-gdpr-compliance-lite.php:545
+msgid ""
+" & laquo;\n"
+"                Back"
+msgstr ""
+
+#: total-gdpr-compliance-lite.php:575 total-gdpr-compliance-lite.php:588
+msgid "Login Required. Please Login and Try again."
+msgstr ""
+
+#: total-gdpr-compliance-lite.php:578
+msgid "Policies accepted. Please click button again to unaccept."
+msgstr ""
+
+#: total-gdpr-compliance-lite.php:582
+msgid "Policies unaccepted."
+msgstr ""
+
+#: total-gdpr-compliance-lite.php:591
+msgid "Terms and Condition accepted. Please click button again to unaccept."
+msgstr ""
+
+#: total-gdpr-compliance-lite.php:595
+msgid "Terms and Condition unaccepted."
+msgstr ""
+
+#: total-gdpr-compliance-lite.php:751
+msgid "Content Setting"
+msgstr ""
+
+#: total-gdpr-compliance-lite.php:830
+#: inc/backend/includes/tgdprc-header.php:10
+msgid "Total GDPR Compliance Lite"
+msgstr ""
+
+#: total-gdpr-compliance-lite.php:833 total-gdpr-compliance-lite.php:1112
+#: inc/backend/advanced-cookie/menu_settings_sections/display_settings.php:86
+msgid "About"
+msgstr ""
+
+#: total-gdpr-compliance-lite.php:842
+msgid "Cookie Templates"
+msgstr ""
+
+#: total-gdpr-compliance-lite.php:845
+msgid "Custom Cookie Templates"
+msgstr ""
+
+#: total-gdpr-compliance-lite.php:848
+#: inc/backend/cookie/menu_settings_sections/general_settings.php:5
+msgid "Cookie Settings"
+msgstr ""
+
+#: total-gdpr-compliance-lite.php:848 total-gdpr-compliance-lite.php:1014
+#: inc/backend/cookie/custom_meta/cookie_bar_meta_box.php:28
+#: inc/backend/cookie/custom_meta/cookie_bar_meta_box.php:32
+msgid "Cookie Setting"
+msgstr ""
+
+#: total-gdpr-compliance-lite.php:851
+msgid "Advanced Cookies"
+msgstr ""
+
+#: total-gdpr-compliance-lite.php:854
+msgid "Policies & Terms"
+msgstr ""
+
+#: total-gdpr-compliance-lite.php:857 total-gdpr-compliance-lite.php:1063
+msgid "User Data"
+msgstr ""
+
+#: total-gdpr-compliance-lite.php:860
+msgid "Plugin Consents"
+msgstr ""
+
+#: total-gdpr-compliance-lite.php:863
+msgid "Services Settings"
+msgstr ""
+
+#: total-gdpr-compliance-lite.php:866
+msgid "Services"
+msgstr ""
+
+#: total-gdpr-compliance-lite.php:869
+msgid "More WP Resources"
+msgstr ""
+
+#: total-gdpr-compliance-lite.php:973
+msgid " New "
+msgstr ""
+
+#: total-gdpr-compliance-lite.php:981
+msgid "Listing"
+msgstr ""
+
+#: total-gdpr-compliance-lite.php:986
+msgid "Add New "
+msgstr ""
+
+#: total-gdpr-compliance-lite.php:1023
+#: inc/backend/advanced-cookie/menu_settings_sections/general_settings.php:25
+msgid "Advanced Cookie Settings"
+msgstr ""
+
+#: total-gdpr-compliance-lite.php:1031
+#: inc/backend/policies-and-conditions/policies_and_conditions.php:4
+msgid "Policies & Conditions"
+msgstr ""
+
+#: total-gdpr-compliance-lite.php:1039
+msgid "Consents"
+msgstr ""
+
+#: total-gdpr-compliance-lite.php:1047
+msgid "Service Setting"
+msgstr ""
+
+#: total-gdpr-compliance-lite.php:1055
+#: inc/backend/more-wordpress-resources.php:7
+msgid "More WordPress Resources"
+msgstr ""
+
+#: total-gdpr-compliance-lite.php:1319
+msgid "Add New Template"
+msgstr ""
+
+#: total-gdpr-compliance-lite.php:1334
+#: inc/backend/cookie/menu_settings_sections/display_settings.php:208
+msgid "Custom Template"
+msgstr ""
+
+#: total-gdpr-compliance-lite.php:1540
+msgid "TGDPRC Cookie Pagewise Configuration"
+msgstr ""
+
+#: total-gdpr-compliance-lite.php:1652
+msgid ""
+"\n"
+"Hi there,\n"
+"                        \n"
+"We are writing this email to notify you that there was breach in our site.\n"
+"\n"
+"Please contact us for additional details.\n"
+"\n"
+"Thank you"
+msgstr ""
+
+#: total-gdpr-compliance-lite.php:1661
+#: inc/backend/user-data/user-data-breach/data-breach-setting.php:18
+msgid "Data Breach Notice ["
+msgstr ""
+
+#: inc/backend/about.php:5
+msgid "Introductory Page To Basics of GDPR"
+msgstr ""
+
+#: inc/backend/about.php:19
+msgid "What is  General Data Protection Regulation (GDPR)?"
+msgstr ""
+
+#: inc/backend/about.php:22
+msgid ""
+"General Data Protection Regulation (GDPR) is a set of regulations built to "
+"give users more control over their personal data. It aims to simplify the "
+"regulatory environment for business in both personal users and businesses in "
+"the European Union."
+msgstr ""
+
+#: inc/backend/about.php:26
+msgid "Who are Affected By GDPR?"
+msgstr ""
+
+#: inc/backend/about.php:29
+msgid ""
+"This rule and policies applies to any personal and business that deal with "
+"providing services to customer inside the European Union(EU). Or to any one "
+"who are outside the EU but are in linked with the sales to customer and "
+"business within EU."
+msgstr ""
+
+#: inc/backend/about.php:33
+msgid "What is GDPR Compliance?"
+msgstr ""
+
+#: inc/backend/about.php:36
+msgid ""
+"It is the process or method to ensure that the personal data of the user are "
+"either collected with user consent or by law. And to make sure the data "
+"won't be misused under any circumtances and would be penalize if they fail "
+"to do so."
+msgstr ""
+
+#: inc/backend/about.php:39
+msgid "What is GDPR for Business?"
+msgstr ""
+
+#: inc/backend/about.php:42
+msgid ""
+"GDPR is regulation that guarantees data protection, safeguards built into "
+"products and services providing data protection by ensuring that no data is "
+"being collected involuntarily or no data is being misused by the business.."
+msgstr ""
+
+#: inc/backend/about.php:45
+msgid "What is Personal Data?"
+msgstr ""
+
+#: inc/backend/about.php:48
+msgid ""
+"Personal data is any information that relates to an individual. Different "
+"data scattered across collectively also constitute personal data. It could "
+"be a name, email, your public IP address,residence address, cookies etc."
+msgstr ""
+
+#: inc/backend/about.php:51
+msgid "Learn More About the GDPR?"
+msgstr ""
+
+#: inc/backend/about.php:54
+msgid "The provisions of the GDPR are publicly viewable from the EU from here"
+msgstr ""
+
+#: inc/backend/about.php:57
+msgid "Some of the Basic Shortcodes Available In Our Plugin"
+msgstr ""
+
+#: inc/backend/about.php:61 inc/backend/content-inserter.php:8
+msgid "Terms & Condition Accept Button"
+msgstr ""
+
+#: inc/backend/about.php:64 inc/backend/content-inserter.php:9
+msgid "Policies Accept Button"
+msgstr ""
+
+#: inc/backend/about.php:67 inc/backend/content-inserter.php:10
+msgid "Displaying All Lists of Services"
+msgstr ""
+
+#: inc/backend/about.php:70 inc/backend/content-inserter.php:11
+msgid "Advanced User Cookie Control Setting"
+msgstr ""
+
+#: inc/backend/about.php:73 inc/backend/content-inserter.php:12
+msgid "User Data Form Setting"
+msgstr ""
+
+#: inc/backend/content-inserter.php:3
+msgid "Select Shorcode Type"
+msgstr ""
+
+#: inc/backend/content-inserter.php:7
+msgid "Choose Shortcodes"
+msgstr ""
+
+#: inc/backend/advanced-cookie/tgdprc-advanced-cookie-setting.php:9
+msgid "Advanced Cookie Setting"
+msgstr ""
+
+#: inc/backend/advanced-cookie/tgdprc-advanced-cookie-setting.php:15
+msgid "Advanced Cookie Settings Updated Successfully"
+msgstr ""
+
+#: inc/backend/advanced-cookie/tgdprc-advanced-cookie-setting.php:17
+#: inc/backend/advanced-cookie/tgdprc-advanced-cookie-setting.php:21
+msgid "Advanced Cookie Settings Update Failed. Please Try Again."
+msgstr ""
+
+#: inc/backend/advanced-cookie/tgdprc-advanced-cookie-setting.php:19
+msgid "All Consent Deleted Successfully."
+msgstr ""
+
+#: inc/backend/advanced-cookie/tgdprc-advanced-cookie-setting.php:33
+msgid "Configuration for displaying the advanced cookie control setting form."
+msgstr ""
+
+#: inc/backend/advanced-cookie/tgdprc-advanced-cookie-setting.php:36
+#: inc/backend/policies-and-conditions/tabs/policies_settings.php:9
+#: inc/backend/policies-and-conditions/tabs/terms_and_conditions.php:9
+#: inc/backend/services/service-settings.php:31
+#: inc/backend/user-data/tgdprc-user-data-setting.php:87
+msgid "Shortcode"
+msgstr ""
+
+#: inc/backend/advanced-cookie/tgdprc-advanced-cookie-setting.php:40
+#: inc/backend/services/meta/service-option-field.php:24
+msgid "General"
+msgstr ""
+
+#: inc/backend/advanced-cookie/tgdprc-advanced-cookie-setting.php:41
+#: inc/backend/cookie/manage_settings.php:56
+msgid "Content"
+msgstr ""
+
+#: inc/backend/advanced-cookie/tgdprc-advanced-cookie-setting.php:42
+msgid "Design"
+msgstr ""
+
+#: inc/backend/advanced-cookie/tgdprc-advanced-cookie-setting.php:49
+#: inc/backend/cookie/tgdprc-cookie-setting.php:109
+#: inc/backend/policies-and-conditions/policies_and_conditions.php:34
+msgid "Save Setting"
+msgstr ""
+
+#: inc/backend/advanced-cookie/tgdprc-view-consent-log.php:6
+msgid "View Advanced Cookie Consent Log"
+msgstr ""
+
+#: inc/backend/advanced-cookie/tgdprc-view-consent-log.php:13
+msgid "Consent Deleted Successfully"
+msgstr ""
+
+#: inc/backend/advanced-cookie/tgdprc-view-consent-log.php:15
+msgid "Consent Delete Failed. Please Try Again."
+msgstr ""
+
+#: inc/backend/advanced-cookie/tgdprc-view-consent-log.php:25
+#: inc/backend/advanced-cookie/tgdprc-view-consent-log.php:74
+msgid "Consent Log Browser Header"
+msgstr ""
+
+#: inc/backend/advanced-cookie/tgdprc-view-consent-log.php:28
+#: inc/backend/advanced-cookie/tgdprc-view-consent-log.php:77
+msgid "Consent Last Edited Date"
+msgstr ""
+
+#: inc/backend/advanced-cookie/tgdprc-view-consent-log.php:29
+#: inc/backend/advanced-cookie/tgdprc-view-consent-log.php:78
+#: inc/backend/user-data/user-data-forget/data-forget-setting.php:226
+#: inc/backend/user-data/user-data-forget/data-forget-setting.php:265
+#: inc/backend/user-data/user-data-rectification/data-rectification-setting.php:235
+#: inc/backend/user-data/user-data-rectification/data-rectification-setting.php:275
+#: inc/backend/user-data/user-data-request/data-request-setting.php:229
+#: inc/backend/user-data/user-data-request/data-request-setting.php:268
+msgid "Action"
+msgstr ""
+
+#: inc/backend/advanced-cookie/tgdprc-view-consent-log.php:66
+#: inc/backend/user-data/user-data-rectification/data-rectification-setting.php:264
+#: inc/backend/user-data/user-data-request/data-request-setting.php:257
+msgid "No Consent to Display."
+msgstr ""
+
+#: inc/backend/advanced-cookie/tgdprc-view-consent-log.php:85
+msgid "Export Cookie Consent Logs"
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/design_settings.php:4
+msgid "Design Settings"
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/design_settings.php:9
+msgid "Select Design Type"
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/design_settings.php:12
+msgid "As Per The Site Layout"
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/design_settings.php:13
+#: inc/backend/policies-and-conditions/tabs/policies_settings.php:118
+#: inc/backend/policies-and-conditions/tabs/terms_and_conditions.php:125
+#: inc/backend/services/service-settings.php:84
+#: inc/frontend/services/shortcode-services.php:50
+#: inc/frontend/services/shortcode-services.php:123
+msgid "Custom"
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/design_settings.php:17
+msgid "Header Description"
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/design_settings.php:20
+msgid "Header Info Title Color"
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/design_settings.php:24
+msgid "Primary Description Color"
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/design_settings.php:28
+msgid "Secondary Description Color"
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/design_settings.php:32
+msgid "Checkbox label Text Color"
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/design_settings.php:36
+msgid "Inner Hidden Content"
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/design_settings.php:39
+msgid "Cookie Type Description Color"
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/design_settings.php:43
+msgid "Cookie Type Title Color"
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/design_settings.php:47
+msgid "Cookie Type List Header Color"
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/design_settings.php:51
+msgid "Cookie Type List \"What It Do\" Color"
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/design_settings.php:55
+msgid "Cookie Type List \"What It Won't Do\" Color"
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/design_settings.php:59
+msgid "Button"
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/design_settings.php:62
+msgid "Button Background color"
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/design_settings.php:66
+msgid "Button Hover Background color"
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/design_settings.php:70
+msgid "Button Text Color"
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/design_settings.php:74
+msgid "Button Hover Text Color"
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/display_settings.php:11
+msgid "Content Settings"
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/display_settings.php:14
+msgid "What It Do: Text"
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/display_settings.php:19
+#: inc/backend/advanced-cookie/menu_settings_sections/display_settings.php:126
+msgid "What It Do"
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/display_settings.php:24
+msgid "What It Won't Do: Text"
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/display_settings.php:29
+#: inc/backend/advanced-cookie/menu_settings_sections/display_settings.php:168
+msgid "What It Won't Do"
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/display_settings.php:34
+msgid "Block All: Text"
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/display_settings.php:39
+#: inc/frontend/advanced-cookies-setting/advanced-cookie.php:175
+msgid "Block All"
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/display_settings.php:57
+#: inc/backend/services/meta/service-option-field.php:56
+#: inc/frontend/advanced-cookies-setting/advanced-cookie.php:23
+#: inc/frontend/advanced-cookies-setting/advanced-cookie.php:191
+#: inc/frontend/advanced-cookies-setting/advanced-cookie.php:218
+msgid "Undefined Category Header"
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/display_settings.php:67
+msgid "Disable This Section"
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/display_settings.php:70
+msgid "If checked, this content will be hidden in front."
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/display_settings.php:73
+msgid "Setting Display Text"
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/display_settings.php:81
+#: inc/backend/advanced-cookie/menu_settings_sections/general_settings.php:20
+msgid "Header Info Title"
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/display_settings.php:91
+msgid "Info Text"
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/display_settings.php:99
+msgid ""
+"These are the cookies for the normal running and proper functionality of our "
+"websites."
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/display_settings.php:102
+msgid ""
+"These are the cookies in order to evaluate your use of the website and "
+"compile reports on activity on the site"
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/display_settings.php:105
+msgid ""
+"These are the cookies that different companies like Facebook, Google or any "
+"other advertising platforms to show relevant ads based on your recent search "
+"queries."
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/display_settings.php:122
+#: inc/backend/advanced-cookie/menu_settings_sections/general_settings.php:50
+#: inc/backend/cookie/menu_settings_sections/general_settings.php:38
+#: inc/backend/cookie/menu_settings_sections/general_settings.php:142
+msgid "You can use basic HTML Tags such as"
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/display_settings.php:134
+msgid ""
+"Remember your cookie permission setting.\n"
+"Allow session cookies.\n"
+"Gather information from newsletter and other forms.\n"
+"Keep track of what you input in a shopping cart."
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/display_settings.php:140
+msgid ""
+"Keep track of the time spent on each page.\n"
+"Increase the data quality of the statistics functions."
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/display_settings.php:144
+msgid ""
+"Tailor information and advertising to your interests base.\n"
+"Gather personal identity info like public name or location."
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/display_settings.php:162
+#: inc/backend/advanced-cookie/menu_settings_sections/display_settings.php:201
+msgid "Please insert one sentence per row for individual list"
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/display_settings.php:177
+msgid ""
+"Remember your login details.\n"
+"Remember social media settings."
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/display_settings.php:181
+msgid "Remember any of you personal details."
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/display_settings.php:184
+msgid "Remember any of you private user info."
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/display_settings.php:206
+msgid "Remove"
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/general_settings.php:4
+#: inc/backend/policies-and-conditions/tabs/policies_settings.php:14
+#: inc/backend/policies-and-conditions/tabs/terms_and_conditions.php:14
+msgid "General Settings"
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/general_settings.php:8
+msgid "Enable Advanced Cookie Setting"
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/general_settings.php:17
+msgid "Please enable this checkbox to use \"Advanced Cookie Setting\""
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/general_settings.php:31
+msgid "Header Info Text"
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/general_settings.php:37
+msgid ""
+"You can configure the cookie preference settings from here any time. To "
+"understand the cookies and functionality, please read our related document "
+"carefully."
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/general_settings.php:55
+msgid "Cookie Setting Sub Header"
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/general_settings.php:61
+msgid "You can configure different types of cookies as follows"
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/general_settings.php:67
+msgid "Save and Close Button Text"
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/general_settings.php:68
+#: inc/frontend/advanced-cookies-setting/advanced-cookie.php:289
+msgid "Save Cookie Preference"
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/general_settings.php:71
+msgid "Form Submission Success Message"
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/general_settings.php:72
+#: inc/frontend/advanced-cookies-setting/advanced-cookie.php:292
+msgid "Cookie Preference Stored"
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/general_settings.php:77
+msgid "View All Consent Log"
+msgstr ""
+
+#: inc/backend/advanced-cookie/menu_settings_sections/general_settings.php:80
+msgid "View All Consent Logs"
+msgstr ""
+
+#: inc/backend/consents/consents-settings.php:7
+msgid "Setting successsfully Updated"
+msgstr ""
+
+#: inc/backend/consents/consents-settings.php:20
+msgid ""
+"From here, you can configure different default section in wordPress site and "
+"other third party plugin as supported by our plugin and add the custom "
+"checkbox as user consent approval."
+msgstr ""
+
+#: inc/backend/consents/consents-settings.php:27
+msgid "WordPress Comment"
+msgstr ""
+
+#: inc/backend/consents/consents-settings.php:32
+msgid "WordPress Login Form"
+msgstr ""
+
+#: inc/backend/consents/consents-settings.php:37
+msgid "WordPress Register Form"
+msgstr ""
+
+#: inc/backend/consents/consents-settings.php:42
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/backend/consents/consents-settings.php:47
+msgid "Woocommerce"
+msgstr ""
+
+#: inc/backend/consents/consents-settings.php:63
+msgid "Save Consent Settings"
+msgstr ""
+
+#: inc/backend/consents/tabs/consent-cf7.php:4
+msgid "Enable Consent for CF7"
+msgstr ""
+
+#: inc/backend/consents/tabs/consent-cf7.php:9
+#: inc/backend/consents/tabs/consent-woocommerce.php:10
+#: inc/backend/consents/tabs/consent-wp-default.php:9
+#: inc/backend/consents/tabs/consent-wp-login.php:9
+#: inc/backend/consents/tabs/consent-wp-register.php:9
+msgid "Consent Checkbox Label"
+msgstr ""
+
+#: inc/backend/consents/tabs/consent-cf7.php:11
+msgid "Default: I am okay with storage of my data and accept Privacy Policy."
+msgstr ""
+
+#: inc/backend/consents/tabs/consent-woocommerce.php:5
+msgid "Enable Consent for Woocommerce Checkout"
+msgstr ""
+
+#: inc/backend/consents/tabs/consent-woocommerce.php:12
+msgid "Default: I accept storing of my basic data and Privacy Policy."
+msgstr ""
+
+#: inc/backend/consents/tabs/consent-wp-default.php:4
+msgid "Enable Consent for WP Comment"
+msgstr ""
+
+#: inc/backend/consents/tabs/consent-wp-default.php:11
+msgid "Default: I consent to storing of my name, email and other details."
+msgstr ""
+
+#: inc/backend/consents/tabs/consent-wp-login.php:4
+msgid "Enable Consent for WP Login"
+msgstr ""
+
+#: inc/backend/consents/tabs/consent-wp-login.php:11
+#: inc/backend/consents/tabs/consent-wp-register.php:11
+msgid "Default: I accept storing of my basic data."
+msgstr ""
+
+#: inc/backend/consents/tabs/consent-wp-register.php:4
+msgid "Enable Consent for WP Registry Page"
+msgstr ""
+
+#: inc/backend/cookie/manage_settings.php:4
+msgid "Info"
+msgstr ""
+
+#: inc/backend/cookie/manage_settings.php:11
+#: inc/backend/policies-and-conditions/policies_and_conditions.php:11
+#: inc/backend/user-data/tgdprc-user-data-setting.php:36
+msgid "Settings Updated Successfully"
+msgstr ""
+
+#: inc/backend/cookie/manage_settings.php:13
+#: inc/backend/policies-and-conditions/policies_and_conditions.php:13
+msgid "Settings Update Failed"
+msgstr ""
+
+#: inc/backend/cookie/manage_settings.php:27
+#: inc/backend/cookie/tgdprc-cookie-info.php:43
+msgid "Add New Cookie Info"
+msgstr ""
+
+#: inc/backend/cookie/manage_settings.php:30
+msgid "Preview"
+msgstr ""
+
+#: inc/backend/cookie/manage_settings.php:51
+msgid "Title"
+msgstr ""
+
+#: inc/backend/cookie/manage_settings.php:57
+msgid "Layout"
+msgstr ""
+
+#: inc/backend/cookie/manage_settings.php:58
+msgid "Extra"
+msgstr ""
+
+#: inc/backend/cookie/manage_settings.php:67
+msgid "Save all settings"
+msgstr ""
+
+#: inc/backend/cookie/tgdprc-cookie-info.php:19
+msgid "Deleted Successfully"
+msgstr ""
+
+#: inc/backend/cookie/tgdprc-cookie-info.php:25
+msgid "Deletion Failed"
+msgstr ""
+
+#: inc/backend/cookie/tgdprc-cookie-info.php:31
+msgid "Copy Failed"
+msgstr ""
+
+#: inc/backend/cookie/tgdprc-cookie-info.php:38
+msgid "Action Failed. Please Try Again."
+msgstr ""
+
+#: inc/backend/cookie/tgdprc-cookie-info.php:49
+#: inc/backend/cookie/custom_templates/listing_custom_template.php:32
+msgid "Delete Marked"
+msgstr ""
+
+#: inc/backend/cookie/tgdprc-cookie-info.php:60
+#: inc/backend/cookie/tgdprc-cookie-info.php:120
+msgid "Cookie Title"
+msgstr ""
+
+#: inc/backend/cookie/tgdprc-cookie-info.php:61
+#: inc/backend/cookie/tgdprc-cookie-info.php:121
+msgid "Display Type"
+msgstr ""
+
+#: inc/backend/cookie/tgdprc-cookie-info.php:62
+#: inc/backend/cookie/tgdprc-cookie-info.php:122
+msgid "Position"
+msgstr ""
+
+#: inc/backend/cookie/tgdprc-cookie-info.php:63
+#: inc/backend/cookie/tgdprc-cookie-info.php:123
+#: inc/backend/cookie/custom_templates/add_custom_template.php:23
+#: inc/backend/cookie/custom_templates/edit_custom_template.php:32
+msgid "Template Name"
+msgstr ""
+
+#: inc/backend/cookie/tgdprc-cookie-info.php:64
+#: inc/backend/cookie/tgdprc-cookie-info.php:124
+#: inc/backend/cookie/custom_templates/listing_custom_template.php:46
+#: inc/backend/cookie/custom_templates/listing_custom_template.php:94
+msgid "Actions"
+msgstr ""
+
+#: inc/backend/cookie/tgdprc-cookie-info.php:81
+msgid "Error"
+msgstr ""
+
+#: inc/backend/cookie/tgdprc-cookie-info.php:108
+msgid "No Cookie bar to display. Add a New Cookie Info"
+msgstr ""
+
+#: inc/backend/cookie/tgdprc-cookie-setting.php:20
+msgid "Cookie Setting Saved Successfully."
+msgstr ""
+
+#: inc/backend/cookie/tgdprc-cookie-setting.php:22
+msgid "Couldnot Save Cookie Setting or No Changes Done. Please Try Again."
+msgstr ""
+
+#: inc/backend/cookie/tgdprc-cookie-setting.php:30
+msgid "Enable/Disable Notice"
+msgstr ""
+
+#: inc/backend/cookie/tgdprc-cookie-setting.php:45
+msgid "Mobile Mode"
+msgstr ""
+
+#: inc/backend/cookie/tgdprc-cookie-setting.php:52
+msgid "Cookie Info"
+msgstr ""
+
+#: inc/backend/cookie/tgdprc-cookie-setting.php:61
+msgid "Add a cookie bar first: "
+msgstr ""
+
+#: inc/backend/cookie/tgdprc-cookie-setting.php:61
+#: inc/backend/cookie/menu_settings_sections/display_settings.php:250
+msgid "here"
+msgstr ""
+
+#: inc/backend/cookie/tgdprc-cookie-setting.php:61
+msgid " to select a cookie bar"
+msgstr ""
+
+#: inc/backend/cookie/tgdprc-cookie-setting.php:65
+msgid "Display Page"
+msgstr ""
+
+#: inc/backend/cookie/tgdprc-cookie-setting.php:87
+msgid "Choose From Specific"
+msgstr ""
+
+#: inc/backend/cookie/tgdprc-cookie-setting.php:94
+msgid "Default Pages"
+msgstr ""
+
+#: inc/backend/cookie/tgdprc-cookie-setting.php:97
+msgid "404 Page"
+msgstr ""
+
+#: inc/backend/cookie/tgdprc-cookie-setting.php:98
+msgid "Archive Page"
+msgstr ""
+
+#: inc/backend/cookie/tgdprc-cookie-setting.php:99
+msgid "Search Page"
+msgstr ""
+
+#: inc/backend/cookie/tgdprc-cookie-setting.php:100
+msgid "Home/Blog Page"
+msgstr ""
+
+#: inc/backend/cookie/tgdprc-cookie-setting.php:101
+msgid "Default Home Page"
+msgstr ""
+
+#: inc/backend/cookie/tgdprc-cookie-setting.php:102
+msgid "Static Home Page"
+msgstr ""
+
+#: inc/backend/cookie/custom_meta/cookie_bar_meta_box.php:9
+msgid "Cookie Bar"
+msgstr ""
+
+#: inc/backend/cookie/custom_meta/cookie_bar_meta_box.php:15
+#: inc/backend/policies-and-conditions/tabs/policies_settings.php:117
+#: inc/backend/policies-and-conditions/tabs/terms_and_conditions.php:124
+msgid "Default"
+msgstr ""
+
+#: inc/backend/cookie/custom_meta/cookie_bar_meta_box.php:21
+#: inc/backend/cookie/custom_templates/color_tabs/bar_colors.php:68
+msgid "Disable"
+msgstr ""
+
+#: inc/backend/cookie/custom_meta/cookie_bar_meta_box.php:24
+msgid "You have to add a Cookie Notice first"
+msgstr ""
+
+#: inc/backend/cookie/custom_meta/cookie_bar_meta_box.php:28
+msgid "Cookie Notice has been set to Home Page only, change option in"
+msgstr ""
+
+#: inc/backend/cookie/custom_meta/cookie_bar_meta_box.php:28
+msgid "for this cookie notice to display."
+msgstr ""
+
+#: inc/backend/cookie/custom_meta/cookie_bar_meta_box.php:32
+msgid ""
+"Cookie Notice has been set to specific page, make sure that this page has "
+"been selected or it's related terms for taxonomies has been selected in"
+msgstr ""
+
+#: inc/backend/cookie/custom_meta/cookie_bar_meta_box.php:37
+msgid "Add a Cookie Notice first.. "
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/add_custom_template.php:8
+msgid "Adding Template Failed"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/add_custom_template.php:32
+#: inc/backend/cookie/custom_templates/edit_custom_template.php:41
+msgid "General Area"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/add_custom_template.php:37
+#: inc/backend/cookie/custom_templates/edit_custom_template.php:46
+msgid "Confirmation Button"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/add_custom_template.php:42
+#: inc/backend/cookie/custom_templates/edit_custom_template.php:51
+msgid "More Info Button"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/add_custom_template.php:47
+#: inc/backend/cookie/custom_templates/edit_custom_template.php:56
+#: inc/backend/cookie/menu_settings_sections/general_settings.php:49
+msgid "Close Button"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/add_custom_template.php:66
+msgid "Add"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/edit_custom_template.php:8
+msgid "Template Updated Successfully"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/edit_custom_template.php:10
+msgid "Template Update Failed"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/edit_custom_template.php:12
+msgid "Template Added"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/edit_custom_template.php:14
+msgid "Successfully Copied Template"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/edit_custom_template.php:76
+#: inc/backend/services/service-settings.php:153
+#: inc/backend/user-data/tgdprc-user-data-setting.php:115
+msgid "Save Settings"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/listing_custom_template.php:18
+msgid "Template deleted"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/listing_custom_template.php:20
+msgid "Template cannot be deleted"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/listing_custom_template.php:22
+msgid "Copying Template Failed"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/listing_custom_template.php:26
+msgid "Add New Custom Template"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/listing_custom_template.php:45
+#: inc/backend/cookie/custom_templates/listing_custom_template.php:93
+msgid "Custom Template Title"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/listing_custom_template.php:81
+msgid "No Custom Template to display. Add a New Custom Template"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/color_tabs/bar_colors.php:6
+msgid "Typography"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/color_tabs/bar_colors.php:26
+msgid "Confirmation Text color"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/color_tabs/bar_colors.php:30
+msgid "Confirmation Background color"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/color_tabs/bar_colors.php:35
+msgid "This is the content of the cookie bar"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/color_tabs/bar_colors.php:39
+#: inc/backend/cookie/custom_templates/color_tabs/close_button_colors.php:28
+#: inc/backend/cookie/custom_templates/color_tabs/info_button_colors.php:67
+#: inc/backend/cookie/custom_templates/color_tabs/more_info_button_colors.php:63
+msgid "Border"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/color_tabs/bar_colors.php:46
+msgid "Border Width"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/color_tabs/bar_colors.php:50
+msgid "Border Type"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/color_tabs/bar_colors.php:58
+#: inc/backend/policies-and-conditions/tabs/policies_settings.php:138
+#: inc/backend/policies-and-conditions/tabs/terms_and_conditions.php:145
+msgid "Border Color"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/color_tabs/bar_colors.php:65
+#: inc/backend/cookie/custom_templates/color_tabs/bar_colors.php:75
+#: inc/backend/cookie/custom_templates/color_tabs/bar_colors.php:82
+msgid "Background Image"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/color_tabs/bar_colors.php:77
+msgid "Upload Image"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/color_tabs/close_button_colors.php:6
+#: inc/backend/cookie/custom_templates/color_tabs/info_button_colors.php:37
+#: inc/backend/cookie/custom_templates/color_tabs/more_info_button_colors.php:37
+msgid "Text"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/color_tabs/close_button_colors.php:9
+msgid "Close Button Text Color"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/color_tabs/close_button_colors.php:13
+msgid "Close Button Hover Text Color"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/color_tabs/close_button_colors.php:17
+#: inc/backend/cookie/custom_templates/color_tabs/info_button_colors.php:52
+#: inc/backend/cookie/custom_templates/color_tabs/more_info_button_colors.php:50
+msgid "Background"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/color_tabs/close_button_colors.php:20
+msgid "Close Button Background Color"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/color_tabs/close_button_colors.php:24
+msgid "Close Button Hover Background Color"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/color_tabs/close_button_colors.php:31
+msgid "Close Button Border Color"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/color_tabs/close_button_colors.php:35
+msgid "Close Button Hover Border Color"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/color_tabs/info_button_colors.php:6
+#: inc/backend/cookie/custom_templates/color_tabs/more_info_button_colors.php:6
+msgid "Icon"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/color_tabs/info_button_colors.php:9
+#: inc/backend/cookie/custom_templates/color_tabs/more_info_button_colors.php:9
+msgid "Icon Type"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/color_tabs/info_button_colors.php:12
+#: inc/backend/cookie/custom_templates/color_tabs/more_info_button_colors.php:12
+msgid "Icons"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/color_tabs/info_button_colors.php:17
+msgid "Confirmation Icon"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/color_tabs/info_button_colors.php:26
+#: inc/backend/cookie/custom_templates/color_tabs/more_info_button_colors.php:26
+msgid "Select Icon"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/color_tabs/info_button_colors.php:29
+msgid "Confirmation Icon Image"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/color_tabs/info_button_colors.php:31
+#: inc/backend/cookie/custom_templates/color_tabs/more_info_button_colors.php:31
+msgid "Upload Icon"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/color_tabs/info_button_colors.php:40
+msgid "Confirmation Button Text color"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/color_tabs/info_button_colors.php:46
+msgid "Confirmation Button Hover Text color"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/color_tabs/info_button_colors.php:55
+msgid "Confirmation Button Background color"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/color_tabs/info_button_colors.php:61
+msgid "Confirmation Button Hover Background color"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/color_tabs/info_button_colors.php:70
+msgid "Confirmation Button Border Color"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/color_tabs/info_button_colors.php:74
+msgid "Confirmation Button Hover Border Color"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/color_tabs/info_button_colors.php:80
+#: inc/backend/cookie/custom_templates/color_tabs/more_info_button_colors.php:75
+msgid "Box Shadow"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/color_tabs/info_button_colors.php:83
+msgid "Confirmation button Box Shadow Hover Color"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/color_tabs/info_button_colors.php:85
+#: inc/backend/cookie/custom_templates/color_tabs/more_info_button_colors.php:80
+msgid "This field is active only for Template Blue Chill"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/color_tabs/more_info_button_colors.php:17
+msgid "More Info Icon"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/color_tabs/more_info_button_colors.php:29
+msgid "More Info Icon Image"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/color_tabs/more_info_button_colors.php:40
+msgid "More Info Button Text color"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/color_tabs/more_info_button_colors.php:45
+msgid "More Info Button Hover Text color"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/color_tabs/more_info_button_colors.php:53
+msgid "More Info Button Background color"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/color_tabs/more_info_button_colors.php:58
+msgid "More Info Button Hover Background color"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/color_tabs/more_info_button_colors.php:66
+msgid "More Info Button Border Color"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/color_tabs/more_info_button_colors.php:70
+msgid "More Info Button Hover Border Color"
+msgstr ""
+
+#: inc/backend/cookie/custom_templates/color_tabs/more_info_button_colors.php:78
+msgid "More Info button Box Shadow Hover Color"
+msgstr ""
+
+#: inc/backend/cookie/menu_settings_sections/display_settings.php:5
+msgid "Display Settings"
+msgstr ""
+
+#: inc/backend/cookie/menu_settings_sections/display_settings.php:12
+msgid "Info Display Type"
+msgstr ""
+
+#: inc/backend/cookie/menu_settings_sections/display_settings.php:31
+msgid "Bar Position"
+msgstr ""
+
+#: inc/backend/cookie/menu_settings_sections/display_settings.php:55
+#: inc/backend/cookie/menu_settings_sections/display_settings.php:63
+msgid "More Info Content Position"
+msgstr ""
+
+#: inc/backend/cookie/menu_settings_sections/display_settings.php:74
+msgid "Popup Position"
+msgstr ""
+
+#: inc/backend/cookie/menu_settings_sections/display_settings.php:95
+msgid "Floating Position"
+msgstr ""
+
+#: inc/backend/cookie/menu_settings_sections/display_settings.php:117
+#: inc/backend/cookie/menu_settings_sections/display_settings.php:152
+#: inc/backend/cookie/menu_settings_sections/display_settings.php:182
+msgid "Template Type"
+msgstr ""
+
+#: inc/backend/cookie/menu_settings_sections/display_settings.php:228
+msgid "Select Custom Template"
+msgstr ""
+
+#: inc/backend/cookie/menu_settings_sections/display_settings.php:250
+msgid "No Custom Template added so far. Add"
+msgstr ""
+
+#: inc/backend/cookie/menu_settings_sections/extra_settings.php:5
+msgid "Extra Settings"
+msgstr ""
+
+#: inc/backend/cookie/menu_settings_sections/extra_settings.php:12
+msgid "Cookie Expiry"
+msgstr ""
+
+#: inc/backend/cookie/menu_settings_sections/extra_settings.php:32
+msgid "Day"
+msgstr ""
+
+#: inc/backend/cookie/menu_settings_sections/extra_settings.php:33
+msgid "Days"
+msgstr ""
+
+#: inc/backend/cookie/menu_settings_sections/extra_settings.php:38
+msgid "Show Cookie Info on"
+msgstr ""
+
+#: inc/backend/cookie/menu_settings_sections/extra_settings.php:58
+msgid "Load Delay value"
+msgstr ""
+
+#: inc/backend/cookie/menu_settings_sections/extra_settings.php:64
+msgid "Page Scroll value"
+msgstr ""
+
+#: inc/backend/cookie/menu_settings_sections/extra_settings.php:78
+msgid "Percentage"
+msgstr ""
+
+#: inc/backend/cookie/menu_settings_sections/extra_settings.php:79
+msgid " %"
+msgstr ""
+
+#: inc/backend/cookie/menu_settings_sections/extra_settings.php:80
+msgid "Only 2 decimal places accepted"
+msgstr ""
+
+#: inc/backend/cookie/menu_settings_sections/general_settings.php:16
+msgid "Title Text"
+msgstr ""
+
+#: inc/backend/cookie/menu_settings_sections/general_settings.php:22
+msgid "General Text"
+msgstr ""
+
+#: inc/backend/cookie/menu_settings_sections/general_settings.php:26
+msgid ""
+"This site uses cookies to function smoothly. And so our website can remember "
+"your preferences."
+msgstr ""
+
+#: inc/backend/cookie/menu_settings_sections/general_settings.php:38
+#: inc/backend/cookie/menu_settings_sections/general_settings.php:142
+msgid "and so on"
+msgstr ""
+
+#: inc/backend/cookie/menu_settings_sections/general_settings.php:43
+msgid "Confirmation Text"
+msgstr ""
+
+#: inc/backend/cookie/menu_settings_sections/general_settings.php:44
+msgid "Got it"
+msgstr ""
+
+#: inc/backend/cookie/menu_settings_sections/general_settings.php:57
+msgid "More Info Status"
+msgstr ""
+
+#: inc/backend/cookie/menu_settings_sections/general_settings.php:74
+msgid "More Info Text"
+msgstr ""
+
+#: inc/backend/cookie/menu_settings_sections/general_settings.php:75
+msgid "More Info"
+msgstr ""
+
+#: inc/backend/cookie/menu_settings_sections/general_settings.php:79
+msgid "More Info Action"
+msgstr ""
+
+#: inc/backend/cookie/menu_settings_sections/general_settings.php:99
+msgid "More Info Redirect Link"
+msgstr ""
+
+#: inc/backend/cookie/menu_settings_sections/general_settings.php:105
+msgid "Link Target"
+msgstr ""
+
+#: inc/backend/cookie/menu_settings_sections/general_settings.php:128
+msgid "Slide out Content Text"
+msgstr ""
+
+#: inc/backend/cookie/menu_settings_sections/general_settings.php:131
+msgid "Cookies is a small file used and stored by your browser"
+msgstr ""
+
+#: inc/backend/cookie/paginations/tgdprc_pagination_links.php:77
+msgid "« Previous"
+msgstr ""
+
+#: inc/backend/cookie/paginations/tgdprc_pagination_links.php:78
+msgid "Next »"
+msgstr ""
+
+#: inc/backend/cookie/settings/delete_multiple_settings.php:28
+#: inc/backend/cookie/settings/custom_templates/delete_multiple_template_setting.php:22
+msgid "Fatal Error"
+msgstr ""
+
+#: inc/backend/includes/register-post.php:5
+msgctxt "post type general name"
+msgid "Services: GDPR Cookies & Services Types"
+msgstr ""
+
+#: inc/backend/includes/register-post.php:6
+msgctxt "post type singular name"
+msgid "GDPR Cookies & Services Types"
+msgstr ""
+
+#: inc/backend/includes/register-post.php:7
+msgctxt "admin menu"
+msgid "Total GDPR Compliance Lite"
+msgstr ""
+
+#: inc/backend/includes/register-post.php:8
+msgctxt "add new on admin bar"
+msgid "Services"
+msgstr ""
+
+#: inc/backend/includes/register-post.php:9
+msgctxt "Contact Form 7 Store to DB"
+msgid "New Service"
+msgstr ""
+
+#: inc/backend/includes/register-post.php:10
+msgid "Edit Services"
+msgstr ""
+
+#: inc/backend/includes/register-post.php:11
+msgid "View Services;"
+msgstr ""
+
+#: inc/backend/includes/register-post.php:12
+msgid "All Services"
+msgstr ""
+
+#: inc/backend/includes/register-post.php:13
+msgid "Search Services"
+msgstr ""
+
+#: inc/backend/includes/register-post.php:14
+msgid "Parent Services:"
+msgstr ""
+
+#: inc/backend/includes/register-post.php:15
+msgid "No Services Found."
+msgstr ""
+
+#: inc/backend/includes/register-post.php:16
+msgid "No Services Found in Trash."
+msgstr ""
+
+#: inc/backend/includes/register-post.php:21
+msgid "Description"
+msgstr ""
+
+#: inc/backend/includes/tgdprc-header.php:14
+msgid "TGDPRC Lite"
+msgstr ""
+
+#: inc/backend/includes/tgdprc-header.php:17
+msgid "Cookie Info Template Lists"
+msgstr ""
+
+#: inc/backend/policies-and-conditions/policies_and_conditions.php:26
+msgid "Terms and Conditions"
+msgstr ""
+
+#: inc/backend/policies-and-conditions/policies_and_conditions.php:27
+msgid "Policies"
+msgstr ""
+
+#: inc/backend/policies-and-conditions/tabs/policies_settings.php:6
+msgid "Settings for displaying the \"Policies\" Consent acceptance button."
+msgstr ""
+
+#: inc/backend/policies-and-conditions/tabs/policies_settings.php:20
+#: inc/backend/policies-and-conditions/tabs/terms_and_conditions.php:20
+msgid "Display Text"
+msgstr ""
+
+#: inc/backend/policies-and-conditions/tabs/policies_settings.php:26
+#: inc/backend/policies-and-conditions/tabs/policies_settings.php:28
+#: inc/frontend/terms-conditions-policies/policies.php:63
+#: inc/frontend/terms-conditions-policies/policies.php:112
+#: inc/frontend/terms-conditions-policies/policies.php:114
+msgid "Accept Policies"
+msgstr ""
+
+#: inc/backend/policies-and-conditions/tabs/policies_settings.php:34
+#: inc/backend/policies-and-conditions/tabs/terms_and_conditions.php:34
+msgid "Button Text After Acceptance"
+msgstr ""
+
+#: inc/backend/policies-and-conditions/tabs/policies_settings.php:40
+#: inc/backend/policies-and-conditions/tabs/terms_and_conditions.php:40
+msgid "Message After Acceptance"
+msgstr ""
+
+#: inc/backend/policies-and-conditions/tabs/policies_settings.php:46
+#: inc/backend/policies-and-conditions/tabs/terms_and_conditions.php:46
+msgid "Message After Unacceptance"
+msgstr ""
+
+#: inc/backend/policies-and-conditions/tabs/policies_settings.php:51
+#: inc/backend/policies-and-conditions/tabs/terms_and_conditions.php:52
+msgid "Consent Expiry Time"
+msgstr ""
+
+#: inc/backend/policies-and-conditions/tabs/policies_settings.php:64
+#: inc/backend/policies-and-conditions/tabs/terms_and_conditions.php:71
+msgid "Require logged in to Accept"
+msgstr ""
+
+#: inc/backend/policies-and-conditions/tabs/policies_settings.php:72
+#: inc/backend/policies-and-conditions/tabs/terms_and_conditions.php:79
+msgid "Login Required Message"
+msgstr ""
+
+#: inc/backend/policies-and-conditions/tabs/policies_settings.php:77
+msgid "Require Login to Change Policies Consent."
+msgstr ""
+
+#: inc/backend/policies-and-conditions/tabs/policies_settings.php:86
+#: inc/backend/policies-and-conditions/tabs/terms_and_conditions.php:93
+msgid "Enable Redirect after Acceptance"
+msgstr ""
+
+#: inc/backend/policies-and-conditions/tabs/policies_settings.php:96
+#: inc/backend/policies-and-conditions/tabs/terms_and_conditions.php:103
+msgid "Page to Redirect After Acceptance"
+msgstr ""
+
+#: inc/backend/policies-and-conditions/tabs/policies_settings.php:99
+#: inc/backend/policies-and-conditions/tabs/terms_and_conditions.php:106
+msgid "Current Page"
+msgstr ""
+
+#: inc/backend/policies-and-conditions/tabs/policies_settings.php:108
+#: inc/backend/policies-and-conditions/tabs/terms_and_conditions.php:115
+msgid "Layout Designs"
+msgstr ""
+
+#: inc/backend/policies-and-conditions/tabs/policies_settings.php:114
+#: inc/backend/policies-and-conditions/tabs/terms_and_conditions.php:121
+msgid "Select Button Design Type"
+msgstr ""
+
+#: inc/backend/policies-and-conditions/tabs/policies_settings.php:122
+#: inc/backend/policies-and-conditions/tabs/terms_and_conditions.php:129
+msgid "Text color"
+msgstr ""
+
+#: inc/backend/policies-and-conditions/tabs/policies_settings.php:126
+#: inc/backend/policies-and-conditions/tabs/terms_and_conditions.php:133
+msgid "Hover Text color"
+msgstr ""
+
+#: inc/backend/policies-and-conditions/tabs/policies_settings.php:130
+#: inc/backend/policies-and-conditions/tabs/terms_and_conditions.php:137
+msgid "Background color"
+msgstr ""
+
+#: inc/backend/policies-and-conditions/tabs/policies_settings.php:134
+#: inc/backend/policies-and-conditions/tabs/terms_and_conditions.php:141
+msgid "Hover Background color"
+msgstr ""
+
+#: inc/backend/policies-and-conditions/tabs/policies_settings.php:142
+#: inc/backend/policies-and-conditions/tabs/terms_and_conditions.php:149
+msgid "Hover Border Color"
+msgstr ""
+
+#: inc/backend/policies-and-conditions/tabs/terms_and_conditions.php:6
+msgid ""
+"Settings for displaying the \"Terms & Conditions\" consent acceptance button."
+msgstr ""
+
+#: inc/backend/policies-and-conditions/tabs/terms_and_conditions.php:26
+#: inc/backend/policies-and-conditions/tabs/terms_and_conditions.php:28
+#: inc/frontend/terms-conditions-policies/terms-condition.php:65
+#: inc/frontend/terms-conditions-policies/terms-condition.php:114
+#: inc/frontend/terms-conditions-policies/terms-condition.php:116
+msgid "Accept Terms and Conditions"
+msgstr ""
+
+#: inc/backend/policies-and-conditions/tabs/terms_and_conditions.php:84
+msgid "Require Login to Change Terms Consent."
+msgstr ""
+
+#: inc/backend/services/service-settings.php:4
+msgid "Service Settings"
+msgstr ""
+
+#: inc/backend/services/service-settings.php:12
+msgid "Setting Saved Successfullly."
+msgstr ""
+
+#: inc/backend/services/service-settings.php:14
+msgid "Setting wasn't Saved Successfullly."
+msgstr ""
+
+#: inc/backend/services/service-settings.php:27
+msgid ""
+"Setting for configuring all the services that are being used in the site."
+msgstr ""
+
+#: inc/backend/services/service-settings.php:36
+msgid "Form Setting"
+msgstr ""
+
+#: inc/backend/services/service-settings.php:40
+msgid "Enable Services"
+msgstr ""
+
+#: inc/backend/services/service-settings.php:47
+msgid "Please enable this checkbox to show services in the frontend."
+msgstr ""
+
+#: inc/backend/services/service-settings.php:50
+msgid "Enable Display of Default Plugin Services"
+msgstr ""
+
+#: inc/backend/services/service-settings.php:57
+msgid "Please enable this checkbox to show services used by the plugin."
+msgstr ""
+
+#: inc/backend/services/service-settings.php:60
+msgid "Preview Of Services Used by the plugin"
+msgstr ""
+
+#: inc/backend/services/service-settings.php:65
+#: inc/backend/services/service-settings.php:91
+#: inc/frontend/services/shortcode-services.php:29
+#: inc/frontend/services/shortcode-services.php:169
+msgid "S.N."
+msgstr ""
+
+#: inc/backend/services/service-settings.php:66
+#: inc/backend/services/service-settings.php:92
+#: inc/backend/services/service-settings.php:110
+#: inc/backend/services/service-settings.php:145
+#: inc/frontend/services/shortcode-services.php:30
+#: inc/frontend/services/shortcode-services.php:170
+msgid "Header"
+msgstr ""
+
+#: inc/backend/services/service-settings.php:67
+#: inc/backend/services/service-settings.php:93
+#: inc/frontend/services/shortcode-services.php:31
+#: inc/frontend/services/shortcode-services.php:171
+msgid "Purpose"
+msgstr ""
+
+#: inc/backend/services/service-settings.php:68
+#: inc/backend/services/service-settings.php:94
+#: inc/frontend/services/shortcode-services.php:32
+#: inc/frontend/services/shortcode-services.php:172
+msgid "Cookies Used"
+msgstr ""
+
+#: inc/backend/services/service-settings.php:69
+#: inc/backend/services/service-settings.php:95
+#: inc/frontend/services/shortcode-services.php:33
+#: inc/frontend/services/shortcode-services.php:173
+msgid "Cookies Types"
+msgstr ""
+
+#: inc/backend/services/service-settings.php:70
+#: inc/backend/services/service-settings.php:96
+#: inc/frontend/services/shortcode-services.php:34
+#: inc/frontend/services/shortcode-services.php:174
+msgid "Cookies Nature"
+msgstr ""
+
+#: inc/backend/services/service-settings.php:71
+#: inc/backend/services/service-settings.php:97
+#: inc/frontend/services/shortcode-services.php:35
+#: inc/frontend/services/shortcode-services.php:175
+msgid "Expiry Time(For Repititive)"
+msgstr ""
+
+#: inc/backend/services/service-settings.php:72
+#: inc/backend/services/service-settings.php:98
+#: inc/frontend/services/shortcode-services.php:36
+#: inc/frontend/services/shortcode-services.php:176
+msgid "Is Blockable"
+msgstr ""
+
+#: inc/backend/services/service-settings.php:73
+#: inc/backend/services/service-settings.php:99
+#: inc/frontend/services/shortcode-services.php:37
+#: inc/frontend/services/shortcode-services.php:177
+msgid "Currently Active in Site"
+msgstr ""
+
+#: inc/backend/services/service-settings.php:78
+msgid "1"
+msgstr ""
+
+#: inc/backend/services/service-settings.php:79
+msgid "Total GDPR Complaince Lite"
+msgstr ""
+
+#: inc/backend/services/service-settings.php:80
+#: inc/frontend/services/shortcode-services.php:46
+msgid "Making the site GDPR Compatible"
+msgstr ""
+
+#: inc/backend/services/service-settings.php:81
+#: inc/frontend/services/shortcode-services.php:47
+msgid "tgdprc_policie_cookie, tgdprc_terms_cookie, tgdprc_cookie_expiry"
+msgstr ""
+
+#: inc/backend/services/service-settings.php:82
+#: inc/frontend/services/shortcode-services.php:48
+msgid "Strictly Neccessary"
+msgstr ""
+
+#: inc/backend/services/service-settings.php:83
+#: inc/backend/services/meta/service-option-field.php:72
+#: inc/frontend/services/shortcode-services.php:49
+#: inc/frontend/services/shortcode-services.php:104
+msgid "Repetitive"
+msgstr ""
+
+#: inc/backend/services/service-settings.php:85
+#: inc/frontend/services/shortcode-services.php:51
+#: inc/frontend/services/shortcode-services.php:135
+#: inc/frontend/services/shortcode-services.php:139
+#: inc/frontend/services/shortcode-services.php:151
+#: inc/frontend/services/shortcode-services.php:155
+msgid "No"
+msgstr ""
+
+#: inc/backend/services/service-settings.php:86
+#: inc/frontend/services/shortcode-services.php:52
+#: inc/frontend/services/shortcode-services.php:132
+#: inc/frontend/services/shortcode-services.php:148
+msgid "Yes"
+msgstr ""
+
+#: inc/backend/services/service-settings.php:105
+msgid "Basic Cookies Used/Currently Active In the Site"
+msgstr ""
+
+#: inc/backend/services/service-settings.php:111
+#: inc/backend/services/service-settings.php:146
+msgid "Values"
+msgstr ""
+
+#: inc/backend/services/meta/service-option-field.php:31
+msgid "Cookie Used"
+msgstr ""
+
+#: inc/backend/services/meta/service-option-field.php:38
+msgid "Comma separated Cookies List used by this services"
+msgstr ""
+
+#: inc/backend/services/meta/service-option-field.php:42
+msgid "Cookie Types"
+msgstr ""
+
+#: inc/backend/services/meta/service-option-field.php:46
+#: inc/backend/services/meta/service-option-field.php:69
+#: inc/frontend/services/shortcode-services.php:110
+#: inc/frontend/services/shortcode-services.php:114
+msgid "Undisclosed"
+msgstr ""
+
+#: inc/backend/services/meta/service-option-field.php:65
+msgid "Cookie Nature ?"
+msgstr ""
+
+#: inc/backend/services/meta/service-option-field.php:75
+#: inc/frontend/services/shortcode-services.php:107
+msgid "Session"
+msgstr ""
+
+#: inc/backend/services/meta/service-option-field.php:81
+msgid "Cookie Expiry Time ( For Repititive)"
+msgstr ""
+
+#: inc/backend/services/meta/service-option-field.php:88
+msgid "Blank if services does'nt contain the persistent cookies"
+msgstr ""
+
+#: inc/backend/services/meta/service-option-field.php:92
+msgid "Custom Cookie Expiry Time ?"
+msgstr ""
+
+#: inc/backend/services/meta/service-option-field.php:99
+#: inc/backend/services/meta/service-option-field.php:112
+#: inc/backend/services/meta/service-option-field.php:125
+msgid "Yes/No"
+msgstr ""
+
+#: inc/backend/services/meta/service-option-field.php:101
+msgid ""
+"Please check if you're unsure or services includes both session and "
+"persistent cookies"
+msgstr ""
+
+#: inc/backend/services/meta/service-option-field.php:105
+msgid "Can be Blocked ?"
+msgstr ""
+
+#: inc/backend/services/meta/service-option-field.php:117
+msgid "Is Currently Active in Site ?"
+msgstr ""
+
+#: inc/backend/services/meta/service-option-field.php:127
+msgid ""
+"If unchecked, this service won't  be affected by \"Advanced Cookie Setting\""
+msgstr ""
+
+#: inc/backend/user-data/tgdprc-inc-logs.php:4
+msgid "Data Log"
+msgstr ""
+
+#: inc/backend/user-data/tgdprc-inc-logs.php:7
+#: inc/backend/user-data/user-data-breach/send-user-data.php:19
+#: inc/backend/user-data/user-data-request/send-user-data.php:19
+msgid "WP Comment Data"
+msgstr ""
+
+#: inc/backend/user-data/tgdprc-inc-logs.php:25
+#: inc/backend/user-data/user-data-breach/data-breach-setting.php:72
+#: inc/backend/user-data/user-data-breach/send-user-data.php:34
+#: inc/backend/user-data/user-data-request/send-user-data.php:34
+msgid "WP User Data"
+msgstr ""
+
+#: inc/backend/user-data/tgdprc-inc-logs.php:42
+#: inc/backend/user-data/user-data-breach/send-user-data.php:49
+#: inc/backend/user-data/user-data-request/send-user-data.php:49
+msgid "Post Meta Data"
+msgstr ""
+
+#: inc/backend/user-data/tgdprc-inc-logs.php:59
+#: inc/backend/user-data/user-data-breach/data-breach-setting.php:79
+msgid "Woo Commerce Data"
+msgstr ""
+
+#: inc/backend/user-data/tgdprc-inc-logs.php:82
+msgid "Quick User Info"
+msgstr ""
+
+#: inc/backend/user-data/tgdprc-inc-logs.php:86
+msgid "Initial Request Date"
+msgstr ""
+
+#: inc/backend/user-data/tgdprc-inc-logs.php:87
+msgid "Email Sent to User"
+msgstr ""
+
+#: inc/backend/user-data/tgdprc-inc-logs.php:88
+msgid "Last Email Sent Date"
+msgstr ""
+
+#: inc/backend/user-data/tgdprc-inc-logs.php:104
+#: inc/backend/user-data/tgdprc-inc-logs.php:125
+#: inc/backend/user-data/tgdprc-inc-logs.php:146
+msgid "Email Not Sent Yet"
+msgstr ""
+
+#: inc/backend/user-data/tgdprc-inc-logs.php:104
+#: inc/backend/user-data/tgdprc-inc-logs.php:125
+#: inc/backend/user-data/tgdprc-inc-logs.php:146
+#: inc/backend/user-data/user-data-forget/data-forget-setting.php:238
+#: inc/backend/user-data/user-data-rectification/data-rectification-setting.php:247
+#: inc/backend/user-data/user-data-request/data-request-setting.php:241
+msgid "Email Sent"
+msgstr ""
+
+#: inc/backend/user-data/tgdprc-user-data-setting.php:5
+msgid "Access User Data Log"
+msgstr ""
+
+#: inc/backend/user-data/tgdprc-user-data-setting.php:7
+msgid "Forget User Data Log"
+msgstr ""
+
+#: inc/backend/user-data/tgdprc-user-data-setting.php:9
+msgid "Rectify User Data Log"
+msgstr ""
+
+#: inc/backend/user-data/tgdprc-user-data-setting.php:11
+msgid "User Data Settings"
+msgstr ""
+
+#: inc/backend/user-data/tgdprc-user-data-setting.php:16
+msgid "No Data Correspond to Provided Email Address Found"
+msgstr ""
+
+#: inc/backend/user-data/tgdprc-user-data-setting.php:23
+#: inc/backend/user-data/user-data-request/tgdprc-user-data-log.php:13
+msgid "Mail Sent to the selected emailaddress"
+msgstr ""
+
+#: inc/backend/user-data/tgdprc-user-data-setting.php:25
+#: inc/backend/user-data/user-data-request/tgdprc-user-data-log.php:15
+msgid "Mail Wasn't Sent to the selected emailaddress"
+msgstr ""
+
+#: inc/backend/user-data/tgdprc-user-data-setting.php:28
+#: inc/backend/user-data/tgdprc-user-data-setting.php:51
+#: inc/backend/user-data/tgdprc-user-data-setting.php:64
+msgid "Selected user was Removed Successfully."
+msgstr ""
+
+#: inc/backend/user-data/tgdprc-user-data-setting.php:38
+msgid "Settings Wasn't updated. Please Try Again."
+msgstr ""
+
+#: inc/backend/user-data/tgdprc-user-data-setting.php:46
+#: inc/backend/user-data/user-data-forget/tgdprc-forget-user-data-log.php:12
+msgid "Data forgotten and mail sent to the selected emailaddress"
+msgstr ""
+
+#: inc/backend/user-data/tgdprc-user-data-setting.php:48
+msgid "Data forgotten Or Mail Wasn't Sent to the selected emailaddress"
+msgstr ""
+
+#: inc/backend/user-data/tgdprc-user-data-setting.php:59
+#: inc/backend/user-data/user-data-rectification/tgdprc-rectification-user-data-log.php:17
+msgid "Data rectified and mail sent to the selected emailaddress"
+msgstr ""
+
+#: inc/backend/user-data/tgdprc-user-data-setting.php:61
+#: inc/backend/user-data/user-data-rectification/tgdprc-rectification-user-data-log.php:19
+msgid "Data rectified Or Mail Wasn't Sent to the selected emailaddress"
+msgstr ""
+
+#: inc/backend/user-data/tgdprc-user-data-setting.php:72
+msgid "Breach Mail was Sent to All Listed Users"
+msgstr ""
+
+#: inc/backend/user-data/tgdprc-user-data-setting.php:74
+msgid "Breach Mail wasn't Sent to Listed Users."
+msgstr ""
+
+#: inc/backend/user-data/tgdprc-user-data-setting.php:84
+msgid "Configuration for displaying the user data form in the site."
+msgstr ""
+
+#: inc/backend/user-data/tgdprc-user-data-setting.php:102
+#: inc/backend/user-data/user-data-breach/data-breach-setting.php:58
+msgid "Data Access Request"
+msgstr ""
+
+#: inc/backend/user-data/tgdprc-user-data-setting.php:103
+#: inc/backend/user-data/user-data-breach/data-breach-setting.php:65
+msgid "Data Rectification Request"
+msgstr ""
+
+#: inc/backend/user-data/tgdprc-user-data-setting.php:104
+msgid "Data Forget Request"
+msgstr ""
+
+#: inc/backend/user-data/tgdprc-user-data-setting.php:105
+msgid "Data Breach Notification"
+msgstr ""
+
+#: inc/backend/user-data/user-data-process.php:19
+#: inc/backend/user-data/user-data-process.php:122
+#: inc/backend/user-data/user-data-forget/data-forget-setting.php:83
+#: inc/backend/user-data/user-data-rectification/data-rectification-setting.php:92
+#: inc/backend/user-data/user-data-request/data-request-setting.php:84
+msgid "Email already entered for query."
+msgstr ""
+
+#: inc/backend/user-data/user-data-process.php:31
+#: inc/backend/user-data/user-data-process.php:134
+#: inc/backend/user-data/user-data-process.php:233
+#: inc/backend/user-data/user-data-forget/data-forget-setting.php:73
+#: inc/backend/user-data/user-data-request/data-request-setting.php:74
+msgid "Thank you. You will be Notified soon through email."
+msgstr ""
+
+#: inc/backend/user-data/user-data-process.php:39
+#: inc/backend/user-data/user-data-process.php:142
+#: inc/backend/user-data/user-data-process.php:241
+#: inc/backend/user-data/user-data-forget/data-forget-setting.php:93
+#: inc/backend/user-data/user-data-rectification/data-rectification-setting.php:102
+#: inc/backend/user-data/user-data-request/data-request-setting.php:94
+msgid "Something wrong. Please try again"
+msgstr ""
+
+#: inc/backend/user-data/user-data-process.php:73
+msgid ""
+"Hi there,\n"
+"\n"
+"You got Data Access Request at your site #sitename from #email. \n"
+"\n"
+"Please visit site to view additional details.\n"
+"\n"
+"Thank you"
+msgstr ""
+
+#: inc/backend/user-data/user-data-process.php:83
+#: inc/backend/user-data/user-data-process.php:183
+#: inc/backend/user-data/user-data-process.php:288
+#: inc/backend/user-data/user-data-request/data-request-setting.php:137
+#: inc/backend/user-data/user-data-request/user-access-mail-action.php:18
+msgid "Data Access Request ["
+msgstr ""
+
+#: inc/backend/user-data/user-data-process.php:113
+#: inc/backend/user-data/user-data-process.php:212
+#: inc/backend/user-data/user-data-process.php:315
+msgid "Oh Snap! Please Try Again."
+msgstr ""
+
+#: inc/backend/user-data/user-data-process.php:173
+msgid ""
+"Hi there,\n"
+"\n"
+"You got Data Forget Request at your site #sitename from #email. \n"
+"\n"
+"Please visit site to view additional details.\n"
+"\n"
+"Thank you"
+msgstr ""
+
+#: inc/backend/user-data/user-data-process.php:221
+msgid "Your Earlier request is pending. Please try again later."
+msgstr ""
+
+#: inc/backend/user-data/user-data-process.php:278
+msgid ""
+"Hi there,\n"
+"\n"
+"You got Data Rectification Request at your site #sitename from #email. \n"
+"\n"
+"Please visit site to view additional details.\n"
+"\n"
+"Thank you"
+msgstr ""
+
+#: inc/backend/user-data/user-data-breach/data-breach-setting.php:4
+#: inc/backend/user-data/user-data-forget/data-forget-setting.php:4
+#: inc/backend/user-data/user-data-rectification/data-rectification-setting.php:13
+#: inc/backend/user-data/user-data-request/data-request-setting.php:5
+msgid "General Setting"
+msgstr ""
+
+#: inc/backend/user-data/user-data-breach/data-breach-setting.php:9
+msgid ""
+"You can sent mail in case of databreach to the user for displaying the form "
+"for user data request, rectification or forget anywhere in the site."
+msgstr ""
+
+#: inc/backend/user-data/user-data-breach/data-breach-setting.php:13
+#: inc/backend/user-data/user-data-forget/data-forget-setting.php:18
+#: inc/backend/user-data/user-data-rectification/data-rectification-setting.php:27
+#: inc/backend/user-data/user-data-request/data-request-setting.php:29
+msgid "Form Header"
+msgstr ""
+
+#: inc/backend/user-data/user-data-breach/data-breach-setting.php:24
+#: inc/backend/user-data/user-data-forget/data-forget-setting.php:142
+#: inc/backend/user-data/user-data-rectification/data-rectification-setting.php:151
+#: inc/backend/user-data/user-data-rectification/data-rectification-setting.php:193
+#: inc/backend/user-data/user-data-request/data-request-setting.php:143
+msgid "Email Info Text"
+msgstr ""
+
+#: inc/backend/user-data/user-data-breach/data-breach-setting.php:30
+msgid ""
+"Hi there,\n"
+"                        \n"
+"We are writing this email to notify you that there was breach in our site.\n"
+"\n"
+"Please contact us for additional details.\n"
+"\n"
+"Thank you"
+msgstr ""
+
+#: inc/backend/user-data/user-data-breach/data-breach-setting.php:52
+msgid "Pull Email From Following Services"
+msgstr ""
+
+#: inc/backend/user-data/user-data-breach/data-breach-setting.php:84
+msgid "Data Breach Emails to be Sent"
+msgstr ""
+
+#: inc/backend/user-data/user-data-breach/data-breach-setting.php:95
+#: inc/backend/user-data/user-data-breach/data-breach-setting.php:169
+#: inc/backend/user-data/user-data-forget/data-forget-setting.php:222
+#: inc/backend/user-data/user-data-forget/data-forget-setting.php:261
+#: inc/backend/user-data/user-data-rectification/data-rectification-setting.php:231
+#: inc/backend/user-data/user-data-rectification/data-rectification-setting.php:271
+#: inc/backend/user-data/user-data-request/data-request-setting.php:225
+#: inc/backend/user-data/user-data-request/data-request-setting.php:264
+msgid "User Email"
+msgstr ""
+
+#: inc/backend/user-data/user-data-breach/data-breach-setting.php:162
+msgid "No Email to Show."
+msgstr ""
+
+#: inc/backend/user-data/user-data-breach/data-breach-setting.php:173
+msgid "Send Mail To all listed Email"
+msgstr ""
+
+#: inc/backend/user-data/user-data-breach/data-breach-setting.php:174
+msgid ""
+"If user email repeats, repeated email will be skipped and email to others "
+"will be sent."
+msgstr ""
+
+#: inc/backend/user-data/user-data-breach/send-user-data.php:65
+#: inc/backend/user-data/user-data-request/send-user-data.php:65
+msgid "Woo Commerce User Data"
+msgstr ""
+
+#: inc/backend/user-data/user-data-breach/send-user-data.php:81
+#: inc/backend/user-data/user-data-request/send-user-data.php:81
+msgid ""
+"Hi there,\n"
+"\n"
+"Here is your data as per requested as requested from #sitename. \n"
+"\n"
+"Please contact us to view additional details.\n"
+"\n"
+msgstr ""
+
+#: inc/backend/user-data/user-data-breach/send-user-data.php:91
+#: inc/backend/user-data/user-data-request/data-request-setting.php:180
+#: inc/backend/user-data/user-data-request/send-user-data.php:91
+msgid "Data Request Results ["
+msgstr ""
+
+#: inc/backend/user-data/user-data-forget/data-forget-setting.php:8
+#: inc/backend/user-data/user-data-rectification/data-rectification-setting.php:17
+msgid "Disable Rectification Request Form"
+msgstr ""
+
+#: inc/backend/user-data/user-data-forget/data-forget-setting.php:15
+msgid ""
+"Default: Enabled. Please check this checkbox to disable \"User Data Forget "
+"Request\" form."
+msgstr ""
+
+#: inc/backend/user-data/user-data-forget/data-forget-setting.php:23
+#: inc/frontend/userdata/tabs/data-forget.php:17
+msgid "User Data Forget Request"
+msgstr ""
+
+#: inc/backend/user-data/user-data-forget/data-forget-setting.php:28
+#: inc/backend/user-data/user-data-rectification/data-rectification-setting.php:37
+#: inc/backend/user-data/user-data-request/data-request-setting.php:39
+msgid "Email Placeholder"
+msgstr ""
+
+#: inc/backend/user-data/user-data-forget/data-forget-setting.php:33
+msgid "Your email address used in this site"
+msgstr ""
+
+#: inc/backend/user-data/user-data-forget/data-forget-setting.php:38
+#: inc/backend/user-data/user-data-rectification/data-rectification-setting.php:67
+#: inc/backend/user-data/user-data-request/data-request-setting.php:49
+msgid "Consent Checkbox Placeholder"
+msgstr ""
+
+#: inc/backend/user-data/user-data-forget/data-forget-setting.php:43
+#: inc/backend/user-data/user-data-request/data-request-setting.php:54
+msgid "I give consent to store my email address."
+msgstr ""
+
+#: inc/backend/user-data/user-data-forget/data-forget-setting.php:48
+#: inc/backend/user-data/user-data-rectification/data-rectification-setting.php:77
+#: inc/backend/user-data/user-data-request/data-request-setting.php:59
+msgid "Consent Accepted by Default"
+msgstr ""
+
+#: inc/backend/user-data/user-data-forget/data-forget-setting.php:55
+#: inc/backend/user-data/user-data-rectification/data-rectification-setting.php:84
+#: inc/backend/user-data/user-data-request/data-request-setting.php:66
+msgid "If checked, consent checkbox will be checked by default."
+msgstr ""
+
+#: inc/backend/user-data/user-data-forget/data-forget-setting.php:58
+msgid "Additional Info Label"
+msgstr ""
+
+#: inc/backend/user-data/user-data-forget/data-forget-setting.php:63
+msgid "Additional Info"
+msgstr ""
+
+#: inc/backend/user-data/user-data-forget/data-forget-setting.php:68
+#: inc/backend/user-data/user-data-request/data-request-setting.php:69
+msgid "Submission Message"
+msgstr ""
+
+#: inc/backend/user-data/user-data-forget/data-forget-setting.php:78
+#: inc/backend/user-data/user-data-rectification/data-rectification-setting.php:87
+#: inc/backend/user-data/user-data-request/data-request-setting.php:79
+msgid "Already Submitted Message"
+msgstr ""
+
+#: inc/backend/user-data/user-data-forget/data-forget-setting.php:88
+#: inc/backend/user-data/user-data-rectification/data-rectification-setting.php:97
+#: inc/backend/user-data/user-data-request/data-request-setting.php:89
+msgid "Error Message"
+msgstr ""
+
+#: inc/backend/user-data/user-data-forget/data-forget-setting.php:98
+#: inc/backend/user-data/user-data-rectification/data-rectification-setting.php:107
+#: inc/backend/user-data/user-data-request/data-request-setting.php:99
+msgid "Submit Button Text"
+msgstr ""
+
+#: inc/backend/user-data/user-data-forget/data-forget-setting.php:103
+#: inc/backend/user-data/user-data-rectification/data-rectification-setting.php:112
+#: inc/backend/user-data/user-data-request/data-request-setting.php:104
+#: inc/frontend/userdata/tabs/data-access.php:41
+#: inc/frontend/userdata/tabs/data-forget.php:43
+#: inc/frontend/userdata/tabs/data-rectification.php:50
+msgid "Submit"
+msgstr ""
+
+#: inc/backend/user-data/user-data-forget/data-forget-setting.php:108
+#: inc/backend/user-data/user-data-rectification/data-rectification-setting.php:117
+#: inc/backend/user-data/user-data-request/data-request-setting.php:109
+msgid "Admin Email Setting"
+msgstr ""
+
+#: inc/backend/user-data/user-data-forget/data-forget-setting.php:111
+#: inc/backend/user-data/user-data-rectification/data-rectification-setting.php:120
+#: inc/backend/user-data/user-data-request/data-request-setting.php:112
+msgid "Enable Alert Admin"
+msgstr ""
+
+#: inc/backend/user-data/user-data-forget/data-forget-setting.php:118
+msgid ""
+"Please enable this checkbox to get alert on \"User Data Forget\" request"
+msgstr ""
+
+#: inc/backend/user-data/user-data-forget/data-forget-setting.php:121
+#: inc/backend/user-data/user-data-request/data-request-setting.php:122
+msgid "Reciever email"
+msgstr ""
+
+#: inc/backend/user-data/user-data-forget/data-forget-setting.php:131
+#: inc/backend/user-data/user-data-forget/data-forget-setting.php:173
+#: inc/backend/user-data/user-data-rectification/data-rectification-setting.php:140
+#: inc/backend/user-data/user-data-rectification/data-rectification-setting.php:182
+#: inc/backend/user-data/user-data-request/data-request-setting.php:132
+#: inc/backend/user-data/user-data-request/data-request-setting.php:175
+msgid "Email Header"
+msgstr ""
+
+#: inc/backend/user-data/user-data-forget/data-forget-setting.php:136
+msgid "Data Forget Request ["
+msgstr ""
+
+#: inc/backend/user-data/user-data-forget/data-forget-setting.php:148
+msgid ""
+"Hi there,\n"
+"                        \n"
+"You got Data Forget Request at your site #sitename from #email. \n"
+"\n"
+"Please visit site to view additional details.\n"
+"\n"
+"Thank you"
+msgstr ""
+
+#: inc/backend/user-data/user-data-forget/data-forget-setting.php:170
+#: inc/backend/user-data/user-data-rectification/data-rectification-setting.php:179
+#: inc/backend/user-data/user-data-request/data-request-setting.php:172
+msgid "User Email Setting"
+msgstr ""
+
+#: inc/backend/user-data/user-data-forget/data-forget-setting.php:178
+#: inc/backend/user-data/user-data-forget/send-user-forgetted-mail.php:72
+#: inc/backend/user-data/user-data-rectification/send-user-rectified-mail.php:33
+msgid "Data Forget Results"
+msgstr ""
+
+#: inc/backend/user-data/user-data-forget/data-forget-setting.php:184
+#: inc/backend/user-data/user-data-request/data-request-setting.php:186
+msgid "User Email Info Text"
+msgstr ""
+
+#: inc/backend/user-data/user-data-forget/data-forget-setting.php:190
+msgid ""
+"Hi there,\n"
+"\n"
+"This mail is to inform you that your data in the site has been succesfully "
+"forgotten.\n"
+"\n"
+"Please contact us to view additional details.\n"
+"\n"
+"Thanks"
+msgstr ""
+
+#: inc/backend/user-data/user-data-forget/data-forget-setting.php:213
+msgid "Data Forget Requests"
+msgstr ""
+
+#: inc/backend/user-data/user-data-forget/data-forget-setting.php:223
+#: inc/backend/user-data/user-data-forget/data-forget-setting.php:262
+#: inc/backend/user-data/user-data-rectification/data-rectification-setting.php:232
+#: inc/backend/user-data/user-data-rectification/data-rectification-setting.php:272
+#: inc/backend/user-data/user-data-request/data-request-setting.php:226
+#: inc/backend/user-data/user-data-request/data-request-setting.php:265
+msgid "Request Date"
+msgstr ""
+
+#: inc/backend/user-data/user-data-forget/data-forget-setting.php:224
+#: inc/backend/user-data/user-data-forget/data-forget-setting.php:263
+#: inc/backend/user-data/user-data-rectification/data-rectification-setting.php:233
+#: inc/backend/user-data/user-data-rectification/data-rectification-setting.php:273
+#: inc/backend/user-data/user-data-request/data-request-setting.php:227
+#: inc/backend/user-data/user-data-request/data-request-setting.php:266
+msgid "Status"
+msgstr ""
+
+#: inc/backend/user-data/user-data-forget/data-forget-setting.php:225
+#: inc/backend/user-data/user-data-forget/data-forget-setting.php:264
+#: inc/backend/user-data/user-data-rectification/data-rectification-setting.php:234
+#: inc/backend/user-data/user-data-rectification/data-rectification-setting.php:274
+#: inc/backend/user-data/user-data-request/data-request-setting.php:228
+#: inc/backend/user-data/user-data-request/data-request-setting.php:267
+msgid "Last Email Sent"
+msgstr ""
+
+#: inc/backend/user-data/user-data-forget/data-forget-setting.php:238
+#: inc/backend/user-data/user-data-rectification/data-rectification-setting.php:247
+#: inc/backend/user-data/user-data-request/data-request-setting.php:241
+msgid "Email Not Sent"
+msgstr ""
+
+#: inc/backend/user-data/user-data-forget/data-forget-setting.php:254
+msgid "No Forget Request to Display."
+msgstr ""
+
+#: inc/backend/user-data/user-data-forget/send-user-forgetted-mail.php:61
+msgid ""
+"Hi there,\n"
+"\n"
+"This mail is to inform you that your data in the site has been succesfully "
+"forgotten.\n"
+"\n"
+"Please contact us for additional details.\n"
+"\n"
+"Thanks\n"
+msgstr ""
+
+#: inc/backend/user-data/user-data-forget/tgdprc-forget-user-data-log.php:6
+#: inc/backend/user-data/user-data-request/tgdprc-user-data-log.php:5
+msgid "Log For Email"
+msgstr ""
+
+#: inc/backend/user-data/user-data-forget/tgdprc-forget-user-data-log.php:14
+msgid "Data not forgotten Or Mail Wasn't Sent to the selected emailaddress"
+msgstr ""
+
+#: inc/backend/user-data/user-data-forget/tgdprc-forget-user-data-log.php:23
+#: inc/backend/user-data/user-data-forget/tgdprc-forget-user-data-log.php:29
+#: inc/backend/user-data/user-data-rectification/tgdprc-rectification-user-data-log.php:31
+#: inc/backend/user-data/user-data-rectification/tgdprc-rectification-user-data-log.php:58
+#: inc/backend/user-data/user-data-request/tgdprc-user-data-log.php:24
+#: inc/backend/user-data/user-data-request/tgdprc-user-data-log.php:30
+msgid "Go Back"
+msgstr ""
+
+#: inc/backend/user-data/user-data-forget/tgdprc-forget-user-data-log.php:24
+#: inc/backend/user-data/user-data-forget/tgdprc-forget-user-data-log.php:30
+msgid "Forget All Data and Send Email"
+msgstr ""
+
+#: inc/backend/user-data/user-data-forget/tgdprc-forget-user-data-log.php:25
+#: inc/backend/user-data/user-data-forget/tgdprc-forget-user-data-log.php:31
+#: inc/backend/user-data/user-data-rectification/tgdprc-rectification-user-data-log.php:33
+#: inc/backend/user-data/user-data-rectification/tgdprc-rectification-user-data-log.php:60
+#: inc/backend/user-data/user-data-request/tgdprc-user-data-log.php:26
+#: inc/backend/user-data/user-data-request/tgdprc-user-data-log.php:32
+msgid "Delete"
+msgstr ""
+
+#: inc/backend/user-data/user-data-rectification/data-rectification-setting.php:24
+msgid ""
+"Default: Enabled. Please check this checkbox to disable \"User Data "
+"Rectification Request\" form."
+msgstr ""
+
+#: inc/backend/user-data/user-data-rectification/data-rectification-setting.php:32
+#: inc/frontend/userdata/tabs/data-rectification.php:17
+msgid "User Data Rectification Request"
+msgstr ""
+
+#: inc/backend/user-data/user-data-rectification/data-rectification-setting.php:42
+#: inc/backend/user-data/user-data-request/data-request-setting.php:44
+msgid "Your email address Used in this site"
+msgstr ""
+
+#: inc/backend/user-data/user-data-rectification/data-rectification-setting.php:47
+msgid "Old Json Data Placeholder"
+msgstr ""
+
+#: inc/backend/user-data/user-data-rectification/data-rectification-setting.php:52
+msgid "Original Json Data to Rectify"
+msgstr ""
+
+#: inc/backend/user-data/user-data-rectification/data-rectification-setting.php:57
+msgid "New Json Data Placeholder"
+msgstr ""
+
+#: inc/backend/user-data/user-data-rectification/data-rectification-setting.php:62
+msgid "New Rectified Json Data"
+msgstr ""
+
+#: inc/backend/user-data/user-data-rectification/data-rectification-setting.php:72
+msgid "I give consent to store my email address and other datas."
+msgstr ""
+
+#: inc/backend/user-data/user-data-rectification/data-rectification-setting.php:127
+msgid ""
+"Please enable this checkbox to get alert on \"User Data Rectification\" "
+"request"
+msgstr ""
+
+#: inc/backend/user-data/user-data-rectification/data-rectification-setting.php:130
+msgid "Reciever Email"
+msgstr ""
+
+#: inc/backend/user-data/user-data-rectification/data-rectification-setting.php:145
+msgid "Data Rectification Request ["
+msgstr ""
+
+#: inc/backend/user-data/user-data-rectification/data-rectification-setting.php:157
+msgid ""
+"Hi there,\n"
+"                        \n"
+"You got Data Rectification Request at your site #sitename from #email. \n"
+"\n"
+"Please visit site to view additional details.\n"
+"\n"
+"Thank you"
+msgstr ""
+
+#: inc/backend/user-data/user-data-rectification/data-rectification-setting.php:187
+msgid "Data Rectification Results ["
+msgstr ""
+
+#: inc/backend/user-data/user-data-rectification/data-rectification-setting.php:199
+msgid ""
+"Hi there,\n"
+"\n"
+"This mail is to inform you that your data in the site has been successfully "
+"rectified.\n"
+"\n"
+"Please contact us for additional details.\n"
+"\n"
+"Thanks"
+msgstr ""
+
+#: inc/backend/user-data/user-data-rectification/data-rectification-setting.php:222
+msgid "Data Rectification Requests"
+msgstr ""
+
+#: inc/backend/user-data/user-data-rectification/send-user-rectified-mail.php:22
+msgid ""
+"Hi there,\n"
+"\n"
+"This mail is to inform you that your data in the site has been successfully "
+"rectified.\n"
+"\n"
+"Please contact us for additional details.\n"
+"\n"
+"Thanks\n"
+msgstr ""
+
+#: inc/backend/user-data/user-data-rectification/send-user-rectified-mail.php:39
+msgid "Rectified Json Data"
+msgstr ""
+
+#: inc/backend/user-data/user-data-rectification/tgdprc-rectification-user-data-log.php:9
+msgid "Log for Email"
+msgstr ""
+
+#: inc/backend/user-data/user-data-rectification/tgdprc-rectification-user-data-log.php:32
+#: inc/backend/user-data/user-data-rectification/tgdprc-rectification-user-data-log.php:59
+msgid "Send Mail to This User"
+msgstr ""
+
+#: inc/backend/user-data/user-data-rectification/tgdprc-rectification-user-data-log.php:38
+msgid "Rectification Data Submitted By User"
+msgstr ""
+
+#: inc/backend/user-data/user-data-rectification/tgdprc-rectification-user-data-log.php:45
+msgid "Old User Data"
+msgstr ""
+
+#: inc/backend/user-data/user-data-rectification/tgdprc-rectification-user-data-log.php:49
+msgid "New User Data"
+msgstr ""
+
+#: inc/backend/user-data/user-data-request/data-request-setting.php:9
+msgid "Enable All User Data Services"
+msgstr ""
+
+#: inc/backend/user-data/user-data-request/data-request-setting.php:16
+msgid ""
+"Default: Enabled. Please enable this checkbox to enable \"User Data\" "
+"service in the frontend."
+msgstr ""
+
+#: inc/backend/user-data/user-data-request/data-request-setting.php:19
+msgid "Disable Access Request Form"
+msgstr ""
+
+#: inc/backend/user-data/user-data-request/data-request-setting.php:26
+msgid ""
+"Please check this checkbox to disable \"User Data Access Request\" form."
+msgstr ""
+
+#: inc/backend/user-data/user-data-request/data-request-setting.php:34
+#: inc/frontend/userdata/tabs/data-access.php:15
+msgid "User Data Access Request"
+msgstr ""
+
+#: inc/backend/user-data/user-data-request/data-request-setting.php:119
+msgid ""
+"Please enable this checkbox to get alert on \"User Data Access\" request"
+msgstr ""
+
+#: inc/backend/user-data/user-data-request/data-request-setting.php:149
+msgid ""
+"Hi there,\n"
+"                        \n"
+"You got Data Access Request at your site #sitename from #email.\n"
+"\n"
+"Please visit site to view additional details.\n"
+"\n"
+"Thank you"
+msgstr ""
+
+#: inc/backend/user-data/user-data-request/data-request-setting.php:192
+msgid ""
+"Hi there,\n"
+"                        \n"
+"Here is your data as per requested as requested from #sitename.\n"
+"\n"
+"Please contact us to view additional details.\n"
+"\n"
+msgstr ""
+
+#: inc/backend/user-data/user-data-request/data-request-setting.php:215
+msgid "Data Access Requests"
+msgstr ""
+
+#: inc/backend/user-data/user-data-request/tgdprc-user-data-log.php:25
+#: inc/backend/user-data/user-data-request/tgdprc-user-data-log.php:31
+msgid "Send Log to This Email"
+msgstr ""
+
+#: inc/backend/user-data/user-data-request/user-access-mail-action.php:13
+msgid ""
+"\n"
+"Hi there,\\r\\n You got Data Access Request at your site #sitename. Please "
+"visit site to view additional details.\\r\\nThank you"
+msgstr ""
+
+#: inc/frontend/components/component_3.php:13
+#: inc/frontend/components/component_3.php:16
+msgid "Close"
+msgstr ""
+
+#: inc/frontend/services/shortcode-services.php:45
+msgid "Total GDPR Complaince"
+msgstr ""
+
+#: inc/frontend/services/shortcode-services.php:70
+msgid "Undefined Header"
+msgstr ""
+
+#: inc/frontend/services/shortcode-services.php:92
+msgid "Undefined/Undisclosed"
+msgstr ""
+
+#: inc/frontend/terms-conditions-policies/policies.php:70
+#: inc/frontend/terms-conditions-policies/terms-condition.php:72
+msgid "Accepted"
+msgstr ""
+
+#: inc/frontend/terms-conditions-policies/policies.php:77
+#: inc/frontend/terms-conditions-policies/terms-condition.php:79
+msgid "365"
+msgstr ""
+
+#: inc/frontend/terms-conditions-policies/policies.php:84
+#: inc/frontend/terms-conditions-policies/terms-condition.php:86
+msgid "off"
+msgstr ""
+
+#: inc/frontend/terms-conditions-policies/policies.php:104
+#: inc/frontend/terms-conditions-policies/policies.php:106
+msgid "Policies Accepted"
+msgstr ""
+
+#: inc/frontend/terms-conditions-policies/policies.php:123
+#: inc/frontend/terms-conditions-policies/policies.php:125
+#: inc/frontend/terms-conditions-policies/terms-condition.php:125
+#: inc/frontend/terms-conditions-policies/terms-condition.php:127
+msgid "Something Wrong. Please Try Again."
+msgstr ""
+
+#: inc/frontend/terms-conditions-policies/terms-condition.php:106
+#: inc/frontend/terms-conditions-policies/terms-condition.php:108
+msgid "Terms Accepted"
+msgstr ""
+
+#: inc/frontend/userdata/user-data.php:14
+msgid "Data Access"
+msgstr ""
+
+#: inc/frontend/userdata/user-data.php:21
+msgid "Data Rectification"
+msgstr ""
+
+#: inc/frontend/userdata/user-data.php:28
+msgid "Data Forget"
+msgstr ""
